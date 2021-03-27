@@ -5,6 +5,5 @@ com\gavilan\dlc\desafio01\utils\TSBHeap$Slot.class
 com\gavilan\dlc\desafio01\mediana\constants\ConjuntoPrueba.class
 com\gavilan\dlc\desafio01\mediana\MedianaCalculator.class
 com\gavilan\dlc\desafio01\mediana\MedianaHeapCalculator.class
-.netbeans_automatic_build
 com\gavilan\dlc\desafio01\Desafio01.class
 com\gavilan\dlc\desafio01\reader\FileReaderImpl.class
